@@ -1,0 +1,19 @@
+{
+  "name": "moment",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000O\u0000M\u0000P\u00002\u00000\u00006\u00008\u0000-\u0000L\u0000a\u0000b\u00002\u0000\r\u0000 \u0000",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdyck/COMP2068-Lab2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdyck/COMP2068-Lab2/issues"
+  },
+  "homepage": "https://github.com/chrisdyck/COMP2068-Lab2#readme"
+}

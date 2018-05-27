@@ -1,0 +1,21 @@
+{
+  "name": "demo4",
+  "version": "1.0.0",
+  "description": "First app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdyck/COMP2068-Week3-Demo4.git"
+  },
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.6.6",
+    "demo3": "git+https://github.com/chrisdyck/COMP2068-Week3-Demo3.git"
+  }
+}
