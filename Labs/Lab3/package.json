@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "COMP2068 - Lab 3 Calculations",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdyck/COMP2068-Lab3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdyck/COMP2068-Lab3/issues"
+  },
+  "homepage": "https://github.com/chrisdyck/COMP2068-Lab3#readme",
+  "dependencies": {
+    "connect": "^3.6.6"
+  }
+}
